@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/LumaFusion-1b184b?style=for-the-badge&logo=Mathworks&logoColor=white" height="22.55" />
   <br>
   <br>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="30"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="50"/>
 </p>
 
