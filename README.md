@@ -2,7 +2,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GH-X-ST&theme=graywhite">
   <br>
   <img src="https://img.shields.io/badge/Imperial%20College%20London-0000cd?style=for-the-badge" height="25.93" />
-  <img src="https://img.shields.io/badge/Imperial%20College%20Motorsports-ffffff?style=for-the-badge" height="25.93" />
+  <img src="https://img.shields.io/badge/Imperial%20College%20Motorsports-1a1a1a?style=for-the-badge" height="25.93" />
   <img src="https://img.shields.io/badge/Imperial%20Formula%20Racing-001b35?style=for-the-badge" height="25.93" />
   <br>
   <img src="https://img.shields.io/badge/Pointer%20Racing-000000?style=for-the-badge" height="23.7" />
