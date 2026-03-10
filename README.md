@@ -1,9 +1,9 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GH-X-ST&theme=graywhite">
   <br>
-  <img src="https://img.shields.io/badge/Imperial%20College%20London-0000cd?style=for-the-badge" height="25.95" />
-  <img src="https://img.shields.io/badge/Imperial%20College%20Motorsports-ffffff?style=for-the-badge" height="25.95" />
-  <img src="https://img.shields.io/badge/Imperial%20Formula%20Racing-001b35?style=for-the-badge" height="25.95" />
+  <img src="https://img.shields.io/badge/Imperial%20College%20London-0000cd?style=for-the-badge" height="25.93" />
+  <img src="https://img.shields.io/badge/Imperial%20College%20Motorsports-ffffff?style=for-the-badge" height="25.93" />
+  <img src="https://img.shields.io/badge/Imperial%20Formula%20Racing-001b35?style=for-the-badge" height="25.93" />
   <br>
   <img src="https://img.shields.io/badge/Pointer%20Racing-000000?style=for-the-badge" height="23.7" />
   <img src="https://img.shields.io/badge/Drag--On%20Racing-ffd042?style=for-the-badge" height="23.7" />
@@ -16,14 +16,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GH-X-ST&theme=graywhite&utcOffset=0.00">
   <br>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/Simulink-ffffff?style=for-the-badge&logo=Mathworks&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="22.4" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="22.4" />
-  <img src="https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white" height="22.4" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/Simulink-ffffff?style=for-the-badge&logo=Mathworks&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="22.41" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="22.41" />
+  <img src="https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white" height="22.41" />
   <br>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="22.55" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="22.55" />
