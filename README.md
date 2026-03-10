@@ -38,33 +38,7 @@
 </p>
 <br>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial">
-        <img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="620" alt="Aeronautical Engineering Imperial">
-      </a>
-      <br>
-      <h6>Imperial College London Aeronautical Engineering (MEng 4YFT) Study Materials</h6>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/GH-X-ST/Nausicaa">
-        <img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg" width="620" alt="Nausicaa">
-      </a>
-      <br>
-      <h6>Sim-to-Real Transfer for a Small-Scale Glider:<br>
-      Robust Updraft-Field Exploration–Exploitation with a Hierarchical LQR–RL Controller</h6>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/GH-X-ST/HALO">
-        <img src="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW.jpg" width="620" alt="HALO">
-      </a>
-      <br>
-      <h6>Rotorcraft Design for Helicopter Emergency Medical Services (HEMS) Operations</h6>
-    </td>
-  </tr>
-</table>
+<p align="center"><a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></a><!--
+--><a href="https://github.com/GH-X-ST/Nausicaa"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg" width="320" alt="Nausicaa"></a><br><!--
+--><a href="https://github.com/GH-X-ST/HALO"><img src="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW.jpg" width="320" alt="HALO"></a><!--
+--><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Blank.jpg" width="320" height="1" alt=""></p>
