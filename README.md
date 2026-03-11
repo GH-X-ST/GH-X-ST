@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=GH-X-ST&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=17&stroke=10BCFF&fire=10BCFF&background=FFFFFF&ring=10BCFF&dates=10BCFF&currStreakNum=10BCFF&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF" width="800"><br><br>
+  <img src="https://streak-stats.demolab.com?user=GH-X-ST&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=17&stroke=FFFFFF&fire=0a1219&background=FFFFFF&ring=0a121922&dates=0a121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF" width="790"><br><br>
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.jpg" width="640"><br><br>
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.jpg" width="640">
 </p>
