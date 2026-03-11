@@ -25,7 +25,9 @@
 <br>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="110"/>
+  <img src="https://img.shields.io/github/stars/GH-X-ST?style=for-the-badge&label=Total%20Stars&labelColor=ffffff&color=0a1219" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="30"/>
 </p>
 
 <br>
