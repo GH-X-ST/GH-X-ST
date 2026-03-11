@@ -2,12 +2,7 @@
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GH-X-ST&theme=graywhite">
   <br>
-  <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.jpg" width="650">
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GH-X-ST&theme=graywhite">
-  &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GH-X-ST&theme=graywhite&utcOffset=0.00">
-  <br>
+  <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.jpg" width="650"><br><br>
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.jpg" width="650">
 </p>
 
