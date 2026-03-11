@@ -14,8 +14,17 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_3.jpg" width="640"><br><br>
-  <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_4.jpg" width="640"><br><br>
+  <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_4.jpg" width="640">
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/GH-X-ST?style=for-the-badge&label=Total%20Stars&labelColor=ffffff&color=0a1219" height="24"/>
+</p>
+
+<br>
+
 
 <p align="center"><a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></a><!--
 --><a href="https://github.com/GH-X-ST/Nausicaa"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg" width="320" alt="Nausicaa"></a><br><!--
@@ -25,9 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/GH-X-ST?style=for-the-badge&label=Total%20Stars&labelColor=ffffff&color=0a1219" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="30"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="24"/>
 </p>
 
 <br>
