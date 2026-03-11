@@ -25,3 +25,7 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="110"/>
 </p>
 <br>
+
+<p align="center">
+  <img src="/metrics.plugin.stargazers.worldmap.svg" alt="Stargazers world map" />
+</p>
