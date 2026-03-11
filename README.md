@@ -1,7 +1,6 @@
 <p align="center">
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GH-X-ST&theme=graywhite">
-  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GH-X-ST&theme=graywhite"><br><br>
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.jpg" width="650"><br><br>
   <img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.jpg" width="650">
 </p>
