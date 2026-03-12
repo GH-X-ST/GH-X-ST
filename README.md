@@ -63,7 +63,7 @@
       srcset="https://streak-stats.demolab.com?user=GH-X-ST&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=17&stroke=FFFFFF00&fire=0A1219&background=FFFFFF00&ring=0A121930&dates=0A121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF00"
     >
     <img
-      src="https://streak-stats.demolab.com?user=GH-X-ST&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=17&stroke=FFFFFF00&fire=0A1219&background=FFFFFF00&ring=0A121930&dates=0A121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF00"
+      src="https://streak-stats.demolab.com?user=GH-X-ST&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=17&stroke=FFFFFF00&fire=0A1219&background=FFFFFF00&ring=0A121930&dates=0A121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF"
       width="790"
       alt="GitHub streak stats"
     >
