@@ -34,7 +34,21 @@
 <br>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="24"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=0d1117&countColor=ffffff"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219"
+    />
+    <img
+      src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219"
+      height="24"
+      alt="Profile views"
+    />
+  </picture>
 </p>
 
 <br>
