@@ -113,7 +113,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/github/stars/GH-X-ST?style=for-the-badge&label=Total%20Stars&labelColor=424242&color=FFFFFF"
+      srcset="https://img.shields.io/github/stars/GH-X-ST?style=for-the-badge&label=Total%20Stars&labelColor=0d1117&color=FFFFFF"
     >
     <source
       media="(prefers-color-scheme: light)"
@@ -129,10 +129,12 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></a><!--
---><a href="https://github.com/GH-X-ST/Nausicaa"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg" width="320" alt="Nausicaa"></a><br><!--
---><a href="https://github.com/GH-X-ST/HALO"><img src="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW.jpg" width="320" alt="HALO"></a><!--
---><a href="https://github.com/GH-X-ST"><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Blank.png" width="320" height="1" alt="profile"></a></p>
+<p align="center">
+  <a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></picture></a><!--
+  --><a href="https://github.com/GH-X-ST/Nausicaa"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/Cover.jpg" width="320" alt="Nausicaa"></picture></a><br><!--
+  --><a href="https://github.com/GH-X-ST/HALO"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/HALO/Main/General/01%20-%20Brand%20Guideline/Logo/HALO_PREVIEW.jpg" width="320" alt="HALO"></picture></a><!--
+  --><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Blank.png" width="320" height="1" alt="">
+</p>
 
 <br>
 
@@ -140,7 +142,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=424242&countColor=FFFFFF&style=or-the-badge"
+      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=0d1117&countColor=FFFFFF&style=or-the-badge"
     >
     <source
       media="(prefers-color-scheme: light)"
