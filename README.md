@@ -32,23 +32,6 @@
 --><a href="https://github.com/GH-X-ST"><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Blank.jpg" width="320" height="1" alt="profile"></a></p>
 
 <br>
-
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=0d1117&countColor=ffffff"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219"
-    />
-    <img
-      src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219"
-      height="24"
-      alt="Profile views"
-    />
-  </picture>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=ffffff&countColor=0a1219&style=or-the-badge" height="24"/>
 </p>
-
-<br>
