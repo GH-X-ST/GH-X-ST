@@ -14,62 +14,7 @@
       alt="GitHub profile summary card"
     >
   </picture>
-  <br><br>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1_dark.png"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.png"
-    >
-    <img
-      src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.png"
-      width="640"
-      alt="Banner 1"
-    >
-  </picture>
-  <br><br>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2_dark.png"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.png"
-    >
-    <img
-      src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.png"
-      width="640"
-      alt="Banner 2"
-    >
-  </picture>
 </p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=GH-X-ST&card_width=800&card_height=17&border_radius=0&stroke=0A121900&fire=FFFFFF&background=0A121900&ring=FFFFFF40&dates=FFFFFF99&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&excludeDaysLabel=FFFFFF&border=0d1117"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=GH-X-ST&card_width=800&card_height=17&border_radius=0&stroke=FFFFFF00&fire=0A1219&background=FFFFFF00&ring=0A121930&dates=0A121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF"
-    >
-    <img
-      src="https://streak-stats.demolab.com?user=GH-X-ST&card_width=800&card_height=17&border_radius=0&stroke=FFFFFF00&fire=0A1219&background=FFFFFF00&ring=0A121930&dates=0A121990&currStreakNum=0A1219&sideNums=0A1219&sideLabels=0A1219&currStreakLabel=0A1219&excludeDaysLabel=0A1219&border=FFFFFF"
-      width="790"
-      alt="GitHub streak stats"
-    >
-  </picture>
-</p>
-
 <br>
 
 <p align="center">
@@ -129,6 +74,26 @@
 
 <br>
 
+
+<p align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1_dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.png"
+    >
+    <img
+      src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_1.png"
+      width="640"
+      alt="Banner 1"
+    >
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></picture></a><!--
   --><a href="https://github.com/GH-X-ST/Nausicaa"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png.jpg" width="320" alt="Nausicaa"></picture></a><br><!--
@@ -152,6 +117,27 @@
       src="https://api.visitorbadge.io/api/VisitorHit?user=GH-X-ST&repo=GH-X-ST&label=Profile%20Views&labelColor=FFFFFF&countColor=0A1219&style=or-the-badge"
       height="24"
       alt="Profile Views"
+    >
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2_dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.png"
+    >
+    <img
+      src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_2.png"
+      width="640"
+      alt="Banner 1"
     >
   </picture>
 </p>
