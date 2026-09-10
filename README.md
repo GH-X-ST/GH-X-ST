@@ -101,8 +101,6 @@
   --><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Blank.png" width="320" height="1" alt="">
 </p>
 
-<br>
-
 <p align="center">
   <picture>
     <source
