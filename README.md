@@ -74,6 +74,31 @@
 
 <br>
 
+<p align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_5_dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_5.png"
+    >
+    <img
+      src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Banner_5.png"
+      width="640"
+      alt="Banner 5"
+    >
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></picture></a><!--
+  --><a href="https://github.com/GH-X-ST/Nausicaa"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png.jpg" width="320" alt="Nausicaa"></picture></a><br>
+</p>
+
+<br>
 
 <p align="center">
 
