@@ -94,8 +94,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GH-X-ST/Aeronautical-Engineering-Imperial"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover_dark.jpg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg"><img src="https://raw.githubusercontent.com/GH-X-ST/Aeronautical-Engineering-Imperial/main/Cover.jpg" width="320" alt="Aeronautical Engineering Imperial"></picture></a><!--
-  --><a href="https://github.com/GH-X-ST/Nausicaa"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png"><img src="https://raw.githubusercontent.com/GH-X-ST/Nausicaa/main/A_Miscellaneous/A_Readme/Cover.png.jpg" width="320" alt="Nausicaa"></picture></a><br>
+  <a href="https://github.com/GH-X-ST/PowerPoint-Progress-Indicators"><img src="https://raw.githubusercontent.com/GH-X-ST/PowerPoint-Progress-Indicators/main/docs/assets/cover.png" width="320" alt="PowerPoint Progress Indicators"></a><!--
+  --><a><img src="https://raw.githubusercontent.com/GH-X-ST/GH-X-ST/main/Graphic%20Design/Spacer.svg" width="320" height="1" alt=""></a>
 </p>
 
 <br>
